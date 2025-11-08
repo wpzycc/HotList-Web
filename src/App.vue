@@ -64,7 +64,6 @@ const hotlistKey = ref<any[]>([
   { key: '36Ke', name: '36氪', sub: '24小时热榜', data: [] },
   { key: 'itNews', name: 'IT之家', sub: '最新资讯', data: [] },
   { key: 'chongBluo', name: '虫部落', sub: '最新热门', data: [] },
-  { key: 'woShiPm', name: 'woShiPm', sub: '热榜', data: [] }
 ])
 
 // 初始化数据请求
